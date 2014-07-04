@@ -116,14 +116,14 @@
 
 				    <div class="row ad-banners">  
 				      <div class="col-sm-4">
-				        <div class="lined"><a href="#"><img src="img/images/mskft_backend.png"></a></div>
+				        <div class="lined"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/images/mskft_backend.png"></a></div>
 				      </div>
 				      <div class="col-sm-4">
-				        <div class="lined" style="width:360px; height:124px; padding-top:15px; padding-left:75px; background: url(img/images/mskft_bath.png); margin-bottom:28px;"><a href="#"><h2>BATH</h2></a></div>
-				        <div class="lined" style="width:360px; height:124px; padding-top:35px; padding-right:35px; background: url(img/images/mskft_bondage.png)"><a href="#"><h3>BONDAGE</h3></a></div>
+				        <div class="lined" style="width:360px; height:124px; padding-top:15px; padding-left:75px; background: url(<?php bloginfo('template_directory'); ?>/img/images/mskft_bath.png); margin-bottom:28px;"><a href="#"><h2>BATH</h2></a></div>
+				        <div class="lined" style="width:360px; height:124px; padding-top:35px; padding-right:35px; background: url(<?php bloginfo('template_directory'); ?>/img/images/mskft_bondage.png)"><a href="#"><h3>BONDAGE</h3></a></div>
 				      </div>
 				      <div class="col-sm-4">
-				        <div class="lined"><a href="#"><img src="img/images/mskft_frontend.png"></a></div>
+				        <div class="lined"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/images/mskft_frontend.png"></a></div>
 				      </div>
 				    </div>
 
