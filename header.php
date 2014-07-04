@@ -17,14 +17,14 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
   <!-- Bootstrap -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?php bloginfo('template_directory'); ?>/css/bootstrap.min.css" rel="stylesheet">
 
-  <link href="css/owl.carousel.css" rel="stylesheet">
-  <link href="css/owl.theme.css" rel="stylesheet">
-  <link href="css/owl.transitions.css" rel="stylesheet">
+  <link href="<?php bloginfo('template_directory'); ?>/css/owl.carousel.css" rel="stylesheet">
+  <link href="<?php bloginfo('template_directory'); ?>/css/owl.theme.css" rel="stylesheet">
+  <link href="<?php bloginfo('template_directory'); ?>/css/owl.transitions.css" rel="stylesheet">
   
-  <link href="css/config.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
+  <link href="<?php bloginfo('template_directory'); ?>/css/config.css" rel="stylesheet">
+<link href="<?php bloginfo('template_directory'); ?>/css/style.css" rel="stylesheet">
 
 
 	<?php wp_head(); ?>
