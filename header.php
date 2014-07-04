@@ -59,7 +59,7 @@
 
 		    </div>
 		  </div><!-- / #top-bar -->
-<?php if (is_page('Home')) { ?>
+<?php if (is_front_page()) { ?>
 	</header>
 	<!-- ========== MENU END ========== -->
 
@@ -110,7 +110,7 @@
 <?php } ?>
 		
 		<div id="content" class="site-content">
-			<?php if (is_page('Home')) { ?>
+			<?php if (is_front_page()) { ?>
 				<section id="content">
 				  <div class="container">
 

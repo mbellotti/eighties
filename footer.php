@@ -32,7 +32,7 @@
 <script src="<?php bloginfo('template_directory'); ?>/js/owl.carousel.min.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/js/jquery.jpanelmenu.min.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
-<?php if (is_page('Home')) { ?>
+<?php if (is_front_page()) { ?>
       <script src="<?php bloginfo('template_directory'); ?>/js/sketch.min.js"></script>
       <script>
       
