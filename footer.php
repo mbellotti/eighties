@@ -32,6 +32,7 @@
 <script src="<?php bloginfo('template_directory'); ?>/js/owl.carousel.min.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/js/jquery.jpanelmenu.min.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
+<?php if (is_page('Home')) { ?>
       <script src="<?php bloginfo('template_directory'); ?>/js/sketch.min.js"></script>
       <script>
       
@@ -169,12 +170,7 @@
 
           }
       };
-      
-	  $('document').ready(function(){
-		  $('#container ').mouseover(function(){
-			  $('#bs-carousel').mouseover();
-		  })
-	  })
       </script>
+<?php } ?>
 </body>
 </html>
