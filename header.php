@@ -129,7 +129,7 @@
 
 				    <div class="products-carousel products-small products">
 
-				      <!--><div class="banner">
+				      <!--<div class="banner">
 				        <img src="<?php bloginfo('template_directory'); ?>/img/images/30-off.png" alt="">
 				      </div>-->
 
