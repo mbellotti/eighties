@@ -130,19 +130,19 @@
 				    <div class="products-carousel products-small products">
 
 				      <div class="banner">
-				        <img src="img/images/30-off.png" alt="">
+				        <img src="<?php bloginfo('template_directory'); ?>/img/images/30-off.png" alt="">
 				      </div>
 
 				      <div class="carousel">
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="http://placehold.it/204x204" alt=""></a>
+				              <a href=""><img src="<?php bloginfo('template_directory'); ?>/images/cribfromgays.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Reshape Panties</a></h3>
-				              <p>by Jack &amp; Jones</p>
+				              <h3><a href="http://www.mskft.com/?tag=cribfromthegays">Crib from the Gays</a></h3>
+				              <p>by various</p>
 				            </div>
 				          </div>
 				        </div>
