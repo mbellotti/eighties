@@ -149,36 +149,36 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="http://placehold.it/204x204" alt=""></a>
+				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/orgasmforscience.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Reshape Panties</a></h3>
-				              <p>by Jack &amp; Jones</p>
+				              <h3><a href="#">Orgasm for Science</a></h3>
+				              <p>by IsaKFT</p>
 				            </div>
 				          </div>
 				        </div>
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="http://placehold.it/204x204" alt=""></a>
+				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/about.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Reshape Panties</a></h3>
-				              <p>by Jack &amp; Jones</p>
+				              <h3><a href="#">Shoes and Sex Toys</a></h3>
+				              <p>by IsaKFT</p>
 				            </div>
 				          </div>
 				        </div>
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="http://placehold.it/204x204" alt=""></a>
+				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/kinkeverywhere.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Reshape Panties</a></h3>
-				              <p>by Jack &amp; Jones</p>
+				              <h3><a href="#">Strange Toys of the Week</a></h3>
+				              <p>by various</p>
 				            </div>
 				          </div>
 				        </div>
