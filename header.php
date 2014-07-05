@@ -185,7 +185,7 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/about.png" alt=""></a>
+				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/pamper.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
