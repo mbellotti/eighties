@@ -133,7 +133,7 @@
 				        <img src="<?php bloginfo('template_directory'); ?>/img/images/30-off.png" alt="">
 				      </div>-->
 
-				      <div class="carousel">
+				      <div id="second-carousel" class="carousel">
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
@@ -197,41 +197,17 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="http://placehold.it/204x204" alt=""></a>
+				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/lube-sale.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Reshape Panties</a></h3>
-				              <p>by Jack &amp; Jones</p>
+				              <h3><a href="#">Wet Hot Summer Lube Sale</a></h3>
+				              <p>by IsaKFT</p>
 				            </div>
 				          </div>
 				        </div>
 				        <div>
-				          <div class="product">
-				            <div class="thumbnail">
-				              <a href="#"><img src="http://placehold.it/204x204" alt=""></a>
-				            </div>
-				            <hr>
-				            <div class="title">
-				              <h3><a href="#">Reshape Panties</a></h3>
-				              <p>by Jack &amp; Jones</p>
-				            </div>
-				          </div>
-				        </div>
-				        <div>
-				          <div class="product">
-				            <div class="thumbnail">
-				              <a href="#"><img src="http://placehold.it/204x204" alt=""></a>
-				            </div>
-				            <hr>
-				            <div class="title">
-				              <h3><a href="#">Reshape Panties</a></h3>
-				              <p>by Jack &amp; Jones</p>
-				            </div>
-				          </div>
-				        </div>
-				      </div>
-
+				          
 				    </div>
 				</section>
 			<?php } ?>

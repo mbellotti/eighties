@@ -237,7 +237,7 @@ nav#language-selector > ul > li {
 
 .owl-controls {
 	position: absolute;
-	bottom: 25px;
+	/*bottom: 25px;*/
 	left: 0;
 	right: 0;
 	z-index: 2;
@@ -263,6 +263,10 @@ nav#language-selector > ul > li {
 	color: inherit;
 	padding: 0;
 	margin: 0 10px;
+}
+
+#second-carousel{
+	width: 370px !important;
 }
 
 /* CONTENT
@@ -406,7 +410,7 @@ img.pull-right {
 ==================================================================*/
 
 .ad-banners {
-	margin-bottom: 80px;
+	margin-bottom: 10px;
 }
 
 .ad-banners .lined{
@@ -494,7 +498,7 @@ img.pull-right {
 ==================================================================*/
 
 #content {
-	padding: 20px 0 60px;
+	padding: 20px 0 10px;
 }
 
 ul.products {
