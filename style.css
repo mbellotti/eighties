@@ -391,7 +391,7 @@
 .js .page-header {
   padding-top: 3em;
   padding-bottom: 3em;
-  background: #515151;
+  /*background: #515151;*/
   color: #FFF;
   text-align: center;
 }

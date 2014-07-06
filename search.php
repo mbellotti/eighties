@@ -14,9 +14,9 @@ get_header(); ?>
 
 		<?php if ( have_posts() ) : ?>
 
-			<!--<header class="page-header">
-				<h1 class="page-title"><?php _e( 'Results', 'eighties' ); ?></h1>
-				<?php get_search_form(); ?>
+			<header class="page-header">
+				<h1 class="page-title">~ <?php _e( 'Results', 'eighties' ); ?></h1>
+				<?php get_search_form(); ?> ~
 			</header><!-- .page-header -->
 
 			<?php /* Start the Loop */ ?>
