@@ -137,7 +137,7 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href=""><img src="<?php bloginfo('template_directory'); ?>/images/cribfromgays.png" alt=""></a>
+				              <a href="http://www.mskft.com/?tag=cribfromthegays"><img src="<?php bloginfo('template_directory'); ?>/images/cribfromgays.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
@@ -149,11 +149,11 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/orgasmforscience.png" alt=""></a>
+				              <a href="http://www.mskft.com/?p=12"><img src="<?php bloginfo('template_directory'); ?>/images/orgasmforscience.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Orgasm for Science</a></h3>
+				              <h3><a href="http://www.mskft.com/?p=12">Orgasms for Science</a></h3>
 				              <p>by IsaKFT</p>
 				            </div>
 				          </div>
@@ -161,11 +161,11 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/about.png" alt=""></a>
+				              <a href="http://www.mskft.com/?p=12"><img src="<?php bloginfo('template_directory'); ?>/images/about.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Shoes and Sex Toys</a></h3>
+				              <h3><a href="http://www.mskft.com/?p=12">Sex Toys -vs- Stilettos</a></h3>
 				              <p>by IsaKFT</p>
 				            </div>
 				          </div>
