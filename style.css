@@ -1267,3 +1267,14 @@ object {
 .site-info a:hover {
   color: #FFF;
 }
+
+/** ----: [ Misc ]:---- */
+
+.box_link{
+	border: #aaa 10px solid;
+	padding: 20px;
+}
+
+.box_link:hover{
+	border: #2bafc8; 10px solid;
+}
