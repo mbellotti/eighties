@@ -37,7 +37,11 @@ var links =[];
 
 <?php if  (is_page(35)){ ?>
 	links = ["http://shop.mskft.com/category/10895/Edibles",
-"http://shop.mskft.com/category/10797/Body-Paints"];
+"http://shop.mskft.com/category/10797/Body-Paints", "http://shop.mskft.com/category/11217/Gifts","http://shop.mskft.com/category/10641/Batteries","http://shop.mskft.com/category/10857/Books-%26-Videos"];
+<?php } ?>
+
+<?php if  (is_page(39)){ ?>
+	links = ["http://shop.mskft.com/category/10828/Blindfolds", "http://shop.mskft.com/category/10856/Chastity-Devices","http://shop.mskft.com/category/10836/Electro-Sex","http://shop.mskft.com/category/10827/Hoods-and-Masks","http://shop.mskft.com/category/10853/Leashes", "http://shop.mskft.com/category/10831/Medical-Devices", "http://shop.mskft.com/category/10854/Ticklers","http://shop.mskft.com/category/10928/Face-Head-%26-Thigh","http://shop.mskft.com/category/10930/Penis-Extenders","http://shop.mskft.com/category/10954/Bondage-%26-Fetish"];
 <?php } ?>
 
 var a = document.getElementById('surprise-me');
