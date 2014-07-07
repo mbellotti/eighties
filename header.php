@@ -57,7 +57,7 @@
 		            <li><a href="http://www.mskft.com/?p=12">About</a></li>
 		            <li><a href="http://www.mskft.com/category/blog/">Blog</a></li>
 		            <li><a href="http://shop.mskft.com/contact.php">Contact Us</a></li>
-					<li><a href="http://shop.mskft.com/cart.php"><i class="fa fa-shopping-cart fa-lg"></i> Cart <span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i></span></a></li>
+					<li><a href="http://shop.mskft.com/cart.php"><i class="fa fa-shopping-cart fa-lg"></i> Cart</a></li>
 		          </ul>
 		        </div><!-- /.navbar-collapse -->
 		      </nav>
