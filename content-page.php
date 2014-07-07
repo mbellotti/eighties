@@ -9,8 +9,8 @@
 ?>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-	<header class="page-header">
-		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
+	<header class="page-header-sub">
+		<?php the_title( '<h1 class="page-title">', '</h1>' ); ?>
 	</header><!-- .entry-header -->
 
 	<div class="entry-content" style="max-width:1200px !important;">

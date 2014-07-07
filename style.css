@@ -1286,6 +1286,10 @@ object {
 	float:left;
 }
 
-.page-header{
+.page-header-sub{
+	text-align: center;
+}
+
+.page-title{
 	font-size: 30pt;
 }
