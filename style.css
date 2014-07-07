@@ -1273,6 +1273,8 @@ object {
 .box_link{
 	border: #aaa 10px solid;
 	padding: 20px;
+	margin: 20px;
+	text-align: center;
 }
 
 .box_link:hover{
