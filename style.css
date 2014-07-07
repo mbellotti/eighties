@@ -1279,5 +1279,9 @@ object {
 }
 
 .box_link:hover{
-	border: #2bafc8; 10px solid;
+	border: #2bafc8 10px solid;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	float:left;
 }
