@@ -32,7 +32,12 @@ var links =[];
 <?php } ?>
 
 <?php if  (is_page(17)){ ?>
-	links = ["http://shop.mskft.com/category/10784/Anal-Beads","http://shop.mskft.com/category/10783/Anal-Kits","http://shop.mskft.com/category/10791/Anal-Lubricants","http://shop.mskft.com/category/10782/Anal-Probes","http://shop.mskft.com/category/10788/Suction-Mounted-Plugs"];
+	links = ["http://shop.mskft.com/category/10781/Prostate-Toys","http://shop.mskft.com/category/10783/Anal-Kits","http://shop.mskft.com/category/10791/Anal-Lubricants","http://shop.mskft.com/category/10782/Anal-Probes","http://shop.mskft.com/category/10788/Suction-Mounted-Plugs"];
+<?php } ?>
+
+<?php if  (is_page(35)){ ?>
+	links = ["http://shop.mskft.com/category/10895/Edibles",
+"http://shop.mskft.com/category/10797/Body-Paints"];
 <?php } ?>
 
 var a = document.getElementById('surprise-me');
