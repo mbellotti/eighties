@@ -97,8 +97,8 @@
 		      <div class="container">
 		        <div class="navbar-header">
 					<a href=""><h1>MS.KFT</h1></a>
-					<a href="" id="frontend" class="menu_item"></a>
-					<a href="" id="backend" class="menu_item"></a>
+					<a href="http://www.mskft.com/?page_id=16" id="frontend" class="menu_item"></a>
+					<a href="http://www.mskft.com/?page_id=17" id="backend" class="menu_item"></a>
 					<a href="" id="bath" class="menu_item"></a>
 					<a href="" id="bondage" class="menu_item"></a>
 		          </div>

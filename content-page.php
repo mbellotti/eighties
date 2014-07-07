@@ -30,6 +30,11 @@ var links =[];
 <?php if  (is_page(16)){ ?>
 	links = ["http://shop.mskft.com/category/10880/Bendable", "http://shop.mskft.com/category/10887/Celebrity", "http://shop.mskft.com/category/10886/G-Spot","http://shop.mskft.com/category/11569/Grip-Handle-Dildos","http://shop.mskft.com/category/10873/Inflatable","http://shop.mskft.com/category/10885/Make-Your-Own", "http://shop.mskft.com/category/10876/Sleeves", "http://shop.mskft.com/category/10875/Suction-Mounted"];
 <?php } ?>
+
+<?php if  (is_page(17)){ ?>
+	links = ["http://shop.mskft.com/category/10784/Anal-Beads","http://shop.mskft.com/category/10783/Anal-Kits","http://shop.mskft.com/category/10791/Anal-Lubricants","http://shop.mskft.com/category/10782/Anal-Probes","http://shop.mskft.com/category/10788/Suction-Mounted-Plugs"];
+<?php } ?>
+
 var a = document.getElementById('surprise-me');
 a.href = links[Math.floor(Math.random() * links.length)];
 </script>
