@@ -1287,9 +1287,13 @@ object {
 }
 
 .page-header-sub{
-	text-align: center;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: -50px;
+	border-bottom: #000 3px solid;
 }
 
 .page-title{
 	font-size: 30pt;
+	color: #000;
 }
