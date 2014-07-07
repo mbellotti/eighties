@@ -1285,3 +1285,7 @@ object {
 	text-align: center;
 	float:left;
 }
+
+.page-header{
+	font-size: 30pt;
+}
