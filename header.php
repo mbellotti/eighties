@@ -50,9 +50,14 @@
 		        </div>
 		        <div class="collapse navbar-collapse top-nav">
 		          <ul class="nav navbar-nav">
-		            <li><a href="about-us.html">About</a></li>
-		            <li><a href="blog.html">Blog</a></li>
-		            <li><a href="contact.html">Contact</a></li>
+					<li><a href="http://www.mskft.com/">Home</a></li> 
+					<li><a href="http://shop.mskft.com/bestsellers.php">Best Sellers</a></li>
+					<li><a href="http://shop.mskft.com/featured.php">Featured</a></li>
+					<li><a href="http://shop.mskft.com/new_releases.php">New Products</a></li>
+		            <li><a href="http://www.mskft.com/?p=12">About</a></li>
+		            <li><a href="http://www.mskft.com/category/blog/">Blog</a></li>
+		            <li><a href="http://shop.mskft.com/contact.php">Contact Us</a></li>
+					<li><a href="http://shop.mskft.com/cart.php"><i class="fa fa-shopping-cart fa-lg"></i> Cart <span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i></span></a></li>
 		          </ul>
 		        </div><!-- /.navbar-collapse -->
 		      </nav>
@@ -96,7 +101,7 @@
 		    <div class="navbar subpage_menu">
 		      <div class="container">
 		        <div class="navbar-header">
-					<a href=""><h1>MS.KFT</h1></a>
+					<a href="http://www.mskft.com"><h1>MS.KFT</h1></a>
 					<a href="http://www.mskft.com/?page_id=16" id="frontend" class="menu_item"></a>
 					<a href="http://www.mskft.com/?page_id=17" id="backend" class="menu_item"></a>
 					<a href="http://www.mskft.com/?page_id=35" id="bath" class="menu_item"></a>
@@ -116,14 +121,14 @@
 
 				    <div class="row ad-banners">  
 				      <div class="col-sm-4">
-				        <div class="lined"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/images/mskft_backend.png"></a></div>
+				        <div class="lined"><a href="http://www.mskft.com/?page_id=17"><img src="<?php bloginfo('template_directory'); ?>/img/images/mskft_backend.png"></a></div>
 				      </div>
 				      <div class="col-sm-4">
-				        <div class="lined" style="width:360px; height:124px; padding-top:15px; padding-left:75px; background: url(<?php bloginfo('template_directory'); ?>/img/images/mskft_bath.png); margin-bottom:28px;"><a href="#"><h2>BATH</h2></a></div>
-				        <div class="lined" style="width:360px; height:124px; padding-top:35px; padding-right:35px; background: url(<?php bloginfo('template_directory'); ?>/img/images/mskft_bondage.png)"><a href="#"><h3>BONDAGE</h3></a></div>
+				        <div class="lined" style="width:360px; height:124px; padding-top:15px; padding-left:75px; background: url(<?php bloginfo('template_directory'); ?>/img/images/mskft_bath.png); margin-bottom:28px;"><a href="http://www.mskft.com/?page_id=35"><h2>BATH</h2></a></div>
+				        <div class="lined" style="width:360px; height:124px; padding-top:35px; padding-right:35px; background: url(<?php bloginfo('template_directory'); ?>/img/images/mskft_bondage.png)"><a href="http://www.mskft.com/?page_id=39"><h3>BONDAGE</h3></a></div>
 				      </div>
 				      <div class="col-sm-4">
-				        <div class="lined"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/images/mskft_frontend.png"></a></div>
+				        <div class="lined"><a href="http://www.mskft.com/?page_id=16"><img src="<?php bloginfo('template_directory'); ?>/img/images/mskft_frontend.png"></a></div>
 				      </div>
 				    </div>
 
