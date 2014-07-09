@@ -178,11 +178,11 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/kinkeverywhere.png" alt=""></a>
+				              <a href="http://www.mskft.com/tag/strangetoys/"><img src="<?php bloginfo('template_directory'); ?>/images/kinkeverywhere.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Strange Toys of the Week</a></h3>
+				              <h3><a href="http://www.mskft.com/tag/strangetoys/">Strange Toys of the Week</a></h3>
 				              <p>by various</p>
 				            </div>
 				          </div>
@@ -190,11 +190,11 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/pamper.png" alt=""></a>
+				              <a href="http://www.mskft.com/tag/sexy-prep/"><img src="<?php bloginfo('template_directory'); ?>/images/pamper.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Sexy Prepwork</a></h3>
+				              <h3><a href="http://www.mskft.com/tag/sexy-prep/">Sexy Prepwork</a></h3>
 				              <p>by various</p>
 				            </div>
 				          </div>
@@ -202,11 +202,11 @@
 				        <div>
 				          <div class="product">
 				            <div class="thumbnail">
-				              <a href="#"><img src="<?php bloginfo('template_directory'); ?>/images/lube-sale.png" alt=""></a>
+				              <a href="http://www.mskft.com/red-hot-summer-lube-selection/"><img src="<?php bloginfo('template_directory'); ?>/images/lube-sale.png" alt=""></a>
 				            </div>
 				            <hr>
 				            <div class="title">
-				              <h3><a href="#">Wet Hot Summer Lube Sale</a></h3>
+				              <h3><a href="http://www.mskft.com/red-hot-summer-lube-selection/">Wet Hot Summer Lube Selection</a></h3>
 				              <p>by IsaKFT</p>
 				            </div>
 				          </div>
