@@ -17,7 +17,13 @@ get_header(); ?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-
+		<?php $args = array(
+		       'cat' => '-hide',
+		       'posts_per_page' => 10,
+		       'order' => 'DESC'
+		);
+		query_posts($args); ?>
+		
 		<?php if ( have_posts() ) : ?>
 
 			<?php /* Start the Loop */ ?>
@@ -32,6 +38,8 @@ get_header(); ?>
 				?>
 
 			<?php endwhile; ?>
+			
+			<?php wp_reset_query(); ?>
 
 			<?php eighties_paging_nav(); ?>
 
